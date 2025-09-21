@@ -9,7 +9,7 @@
 - **地址**：`https://yourdomain?url=https://v.douyin.com/xxxx/`
 - **参数说明**：
     - `url`: 抖音视频分享链接
-    - `data`: 启用json数据返回，请求链接如下 https://yourdomain?data&url=https://v.douyin.com/xxxx
+    - `data`: 启用json数据返回，请求链接如下 `https://yourdomain?data&url=https://v.douyin.com/xxxx`
   
 
 ### 📤 返回结果
